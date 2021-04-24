@@ -1,2 +1,2 @@
-# JoinClash3DRemastered
+# CloneJoinClash3D
 
